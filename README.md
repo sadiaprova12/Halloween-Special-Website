@@ -8,4 +8,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![Screenshot 2024-10-30 233205](https://github.com/user-attachments/assets/90d90a73-e5a0-42fe-a26e-18fe602e8ffd)
+![Screenshot 2024-10-30 233512](https://github.com/user-attachments/assets/ef13ead3-14b3-4a76-a59d-2171058c1e70)
