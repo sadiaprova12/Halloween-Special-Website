@@ -31,7 +31,17 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 
 /*=============== ATROPOS JS ===============*/
-
+const myAtropos = Atropos({
+    el: '.home__images',
+    shadow: false,
+    highlight: false,
+  })
 
 /*=============== ADD SHADOW HEADER ===============*/
 
+function shadowHeader(){
+    const header = document.getElementById('header')
+    // When the scroll is greater than 50 viewport height, add the scroll-header class to the header tag
+    if(this.scrollY >= 50) header.classList.add('shadow-header'); else header.classList.remove('shadow-header')
+}
+window.addEventListener('scroll', shadowHeader)
