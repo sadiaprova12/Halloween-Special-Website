@@ -1,4 +1,4 @@
-# Responsive Halloween Website
+# Responsive Halloween Website 
 
 
 - Responsive Halloween Website Design Using HTML CSS And JavaScript
@@ -8,4 +8,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/preview.png)
+![Screenshot 2024-10-30 233205](https://github.com/user-attachments/assets/90d90a73-e5a0-42fe-a26e-18fe602e8ffd)
